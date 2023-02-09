@@ -1,4 +1,3 @@
-#include "shell.h"
 
 /**
  * hsh - main shell loop
