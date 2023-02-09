@@ -2,7 +2,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-![alt text](//s2.studylib.net/store/data/025893912_1-e26f616a2aee533fff3b9e292fd66a35.png-210x147.png)
+![alt text](https://s2.studylib.net/store/data/025893912_1-e26f616a2aee533fff3b9e292fd66a35.png-210x147.png)
 
  <p align="center">
   <br>
