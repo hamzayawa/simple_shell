@@ -1,4 +1,3 @@
-#include "shell.h"
 
 /**
  * _myhistory - displays the history list.
