@@ -1,4 +1,3 @@
-#include "shell.h"
 
 /**
  *_eputs - echos an input string
