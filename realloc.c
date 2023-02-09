@@ -1,3 +1,4 @@
+#include "shell.h"
 
 /**
  **_memset - fills memory with a constant byte
